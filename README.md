@@ -1,6 +1,6 @@
 # Building a Multimodal Classroom Evaluation Benchmark via Dynamic and Explainable Automated Annotation
 
-This is the official PyTorch code for the paper "[[Building a Multimodal Classroom Evaluation Benchmark via Dynamic and Explainable Automated Annotation]]()". This paper was published in Pattern Recognition.
+This is the official PyTorch code for the paper "[[Building a Multimodal Classroom Evaluation Benchmark via Dynamic and Explainable Automated Annotation]]()".
 
 #### 
 
